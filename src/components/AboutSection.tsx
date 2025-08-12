@@ -15,7 +15,7 @@ const AboutSection = () => {
               </div>
               <h3 className="text-xl font-semibold mb-2">Development</h3>
               <p className="text-gray-600">
-                Passionate about building excellent software that improves lives of those around me.
+                Passionate about building excellent software that improves lives of those around me (Local Market).
               </p>
             </CardContent>
           </Card>
@@ -26,7 +26,7 @@ const AboutSection = () => {
               </div>
               <h3 className="text-xl font-semibold mb-2">Experience</h3>
               <p className="text-gray-600">
-                Over X years of experience in developing web applications and solving complex problems.
+                Over 1 years of experience in developing web applications and solving complex problems.
               </p>
             </CardContent>
           </Card>

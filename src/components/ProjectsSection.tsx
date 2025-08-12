@@ -6,7 +6,7 @@ import { ExternalLink, Github } from "lucide-react";
 const ProjectsSection = () => {
   const projects = [
     {
-      title: "Project 1",
+      title: "",
       description: "A brief description of your first project and its impact.",
       image: "/placeholder.svg",
       github: "#",

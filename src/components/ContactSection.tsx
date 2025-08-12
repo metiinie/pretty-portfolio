@@ -17,11 +17,11 @@ const ContactSection = () => {
               <div className="space-y-4">
                 <div className="flex items-center gap-4">
                   <Mail className="h-5 w-5 text-primary" />
-                  <span>your.email@example.com</span>
+                  <span>abumahilkerim@gmail.com</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <Phone className="h-5 w-5 text-primary" />
-                  <span>+1 (123) 456-7890</span>
+                  <span>+251918982161</span>
                 </div>
                 <div className="flex gap-4 mt-6">
                   <a href="#" className="text-gray-600 hover:text-primary transition-colors">
